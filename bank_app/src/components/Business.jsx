@@ -1,8 +1,14 @@
-import React from 'react'
+import { features } from "../constants"
+import styles, { layout } from "../style"
+import Button from "./Button"
 
 const Business = () => {
   return (
-    <div>Business</div>
+    <section id="features" className={layout.section}>
+      <div className={layout.sectionInfo}>
+        <h2>You do the business, <br /> we’ll handle the money.</h2>
+      </div>
+    </section>
   )
 }
 
