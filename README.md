@@ -1,4 +1,4 @@
-# Runnin the Application 
+# Running the Application 
 npm install && npm run dev 
 
 ![1](https://github.com/Alvin-Mwangi-W/bank_react_app/assets/103242255/ff6c51ec-703b-43d2-8377-38e644a5db27)
